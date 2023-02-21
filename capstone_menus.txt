@@ -1,0 +1,25 @@
+Outer Menu:
+while true: 
+
+Please make a selction:
+1. Banking Transactions Menu
+while banking transactions is True
+    1. Customer Transactions by Zip Code
+    2. Transactions by Transaction Type Etc..
+    3. Branch by State
+        1. inputs(type the branch)
+    4.Back to Main Menu
+        banktraction menu = false
+    #5.Go to Customer Transaction
+        banktraction menu= false
+        customer transaction
+    #6.Go to the Visualizations Menu
+    7.Quit
+        bankingtransaction= false 
+        outermaninmenu= false
+2. Customer Transactions Menu
+3. Visualizations Menu 
+4. Quit
+
+while true: 
+    
